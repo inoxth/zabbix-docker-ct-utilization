@@ -1,0 +1,1 @@
+zabbix ALL=NOPASSWD:/etc/zabbix/scripts/docker-ct-discovery.sh
